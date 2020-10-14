@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Battle Time</string>
+    <string name="facebook_app_id">237180661058401</string>
+    <string name="fb_login_protocol_scheme">fb237180661058401</string>
+</resources>

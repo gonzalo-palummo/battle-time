@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "980029973074",
+    "firebase_url": "https://battle-time-52a5b.firebaseio.com",
+    "project_id": "battle-time-52a5b",
+    "storage_bucket": "battle-time-52a5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980029973074:android:fa7eb51c3e347dbb21f58b",
+        "android_client_info": {
+          "package_name": "app.battletime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980029973074-nmjm0oroaj8t1nb5sah5bv8fu0rgmhcg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.battletime",
+            "certificate_hash": "562941838ac0cf50f25725cc2d2ea77f3fca7fa8"
+          }
+        },
+        {
+          "client_id": "980029973074-br9su2s1p7h7h5gadr65074d27bgvmci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMJn9h_MV5FdkaEfiixDddnYb6gsaLT2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980029973074-br9su2s1p7h7h5gadr65074d27bgvmci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
